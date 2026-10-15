@@ -1538,7 +1538,6 @@ const styles = `
   .form { font-size: 22px; }
 
   .translation-ru {
-    color: #333;
     font: 18px 'Russo One', sans-serif;
   }
 
