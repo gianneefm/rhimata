@@ -1002,8 +1002,8 @@ const VERB_DATA = [
     {id: 997, present: 'ωθώ', future: 'θα ωθήσω', aorist: 'ώθησα', imperative: 'ώθησε / ωθήστε', translationEN: 'push, urge', translationRU: 'подталкивать, побуждать', lexicalCategory: ['lexicalMotion','lexicalInfluence'], grammaticalCategory: ['grammar2']},
     {id: 998, present: 'ωριμάζω', future: 'θα ωριμάσω', aorist: 'ώριμασα', imperative: null, translationEN: 'ripen, mature', translationRU: 'созревать, взрослеть', lexicalCategory: ['lexicalTime','lexicalHealth'], grammaticalCategory: ['grammar1']},
     {id: 999, present: 'ωφελούμαι', future: 'θα ωφεληθώ', aorist: 'ωφελήθηκα', imperative: 'ωφελήσου / ωφεληθείτε', translationEN: 'benefit, profit', translationRU: 'получать пользу', lexicalCategory: ['lexicalSocial','lexicalState'], grammaticalCategory: ['grammarMedial']},
-    {id: 1000, present: 'ωφελώ', future: 'θα ωφελήσω', aorist: 'ωφέλησα', imperative: 'ωφέλησε / ωφελήστε', translationEN: 'benefit, be of use', translationRU: 'приносить пользу', lexicalCategory: ['lexicalWork','lexicalInfluence'], grammaticalCategory: ['grammar2']}
-];
+    {id: 1000, present: 'ωφελώ', future: 'θα ωφελήσω', aorist: 'ωφέλησα', imperative: 'ωφέλησε / ωφελήστε', translationEN: 'benefit, be of use', translationRU: 'приносить пользу', lexicalCategory: ['lexicalWork','lexicalInfluence'], grammaticalCategory: ['grammar2']},
+  ];
 
 const GRAMMATICAL_CATEGORY_COLORS = {
   grammar1: [
